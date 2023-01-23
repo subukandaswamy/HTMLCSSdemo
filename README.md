@@ -2,21 +2,35 @@
 ## HTML DEMO
 Code written in class for lectures related to HTML and CSS.
 
-### Things to Practice today: 1/20/2023
+### Things we practiced on 1/20/2023
 - [x] Color
 - [x] Background color
 - [x] Pixel measurement
 - [ ] Width
-- [ ] Font-weight
-- [ ] Font-size
 - [x] Font-family
 - [x] Font-style
 - [ ] Text-align
 - [x] box model
 - [x] anchor element
 - [ ] Cursor pointer
-- [ ] Span text element
 - [x] CSS Type selectors
 - [x] CSS class selector
-- [ ] CSS ID selector
-- [ ] Cascading cleanup
+
+
+### Things we practiced on 1/23/2023
+- [ ] Span text element
+    - [ ] CSS ID selector
+    - [ ] Font-weight
+    - [ ] pseudo class hover
+- [ ] HTML Structufre
+- [ ] Link element (cleanup by moving styles to separate file)
+- [ ] Using Live server after proper HTML structure
+- [ ] image element
+    - [ ] Width and Height
+    - [ ] Object fit and Object position
+- [ ] HTML Display property
+    - [ ] Block element
+    - [ ] inline block element
+    - [ ] inline
+- [ ] Div element
+
