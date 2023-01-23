@@ -18,19 +18,19 @@ Code written in class for lectures related to HTML and CSS.
 
 
 ### Things we practiced on 1/23/2023
-- [ ] Span text element
-    - [ ] CSS ID selector
-    - [ ] Font-weight
-    - [ ] pseudo class hover
-- [ ] HTML Structufre
-- [ ] Link element (cleanup by moving styles to separate file)
-- [ ] Using Live server after proper HTML structure
-- [ ] image element
-    - [ ] Width and Height
+- [x] Span text element
+    - [x] CSS ID selector
+    - [x] Font-weight
+    - [x] pseudo class hover
+- [x] HTML Structure
+- [x] Link element (cleanup by moving styles to separate file)
+- [x] Using Live server after proper HTML structure
+- [x] image element
+    - [x] Width and Height
     - [ ] Object fit and Object position
-- [ ] HTML Display property
-    - [ ] Block element
-    - [ ] inline block element
+- [x] HTML Display property
+    - [x] Block element
+    - [x] inline block element
     - [ ] inline
-- [ ] Div element
+- [x] Div element
 

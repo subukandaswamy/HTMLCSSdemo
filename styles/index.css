@@ -1,0 +1,41 @@
+.eecs-title {
+    display: inline-block;
+}
+
+p {
+    background-color: green;
+    /* display: inline-block; */
+}
+.college {
+    color: aqua;
+    padding-top: 15px;
+    padding-left: 40px;
+    font-size: 15px;
+    margin-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.college {
+    color: aqua;
+    text-decoration: none;
+    padding-left: 0px;
+}
+
+.school {
+    color: white;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    font-size: 35px;
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#cs:hover {
+    font-weight: bold;
+}
+
+.logo {
+    width: 100px;
+    object-fit: cover;
+}
