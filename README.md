@@ -34,3 +34,33 @@ Code written in class for lectures related to HTML and CSS.
     - [ ] inline
 - [x] Div element
 
+### Things we practiced on 1/25/2023
+- [ ] CSS grid
+    - [ ] grid template columns
+    - [ ] fr for size instead of pixel
+    - [ ] quick mention about flexbox
+    - [ ] EECS homepage as best as we can!
+- [ ] HTML form
+    - [ ] input - test and password
+    - [ ] label
+    - [ ] Get vs Post
+    - [ ] required
+    - [ ] placeholder
+    - [ ] various input types
+        - [ ] Email
+        - [ ] Number
+            - [ ] min, max and step
+        - [ ] Tel
+        - [ ] Select (and multiple)
+        - [ ] Radio
+        - [ ] Range (min, max and Step)
+        - [ ] textarea
+    - [ ] Show MDN and W3School resources
+
+We are wrapping up HTML & CSS with this demos!
+
+Remember our analogy!
+
+![Bicycle analogy](https://commons.wikimedia.org/wiki/File:Mum_teaching_child_how_to_ride_a_bike.jpg "Bicycle analogy")
+
+
