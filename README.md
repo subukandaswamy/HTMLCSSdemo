@@ -35,38 +35,38 @@ Code written in class for lectures related to HTML and CSS.
 - [x] Div element
 
 ### Things we practiced on 1/25/2023
-- [ ] CSS grid
-    - [ ] grid template columns
-    - [ ] fr for size instead of pixel
-    - [ ] quick mention about flexbox
-    - [ ] EECS homepage as best as we can!
-- [ ] HTML form
-    - [ ] input - test and password
-    - [ ] label
-    - [ ] Get vs Post
-    - [ ] required
-    - [ ] placeholder
-    - [ ] various input types
-        - [ ] Email
+- [x] CSS grid
+    - [x] grid template columns
+    - [x] fr for size instead of pixel
+    - [x] quick mention about flexbox
+    - [x] EECS homepage as best as we can!
+- [x] HTML form
+    - [x] input - test and password
+    - [x] label
+    - [x] Get vs Post
+    - [x] required
+    - [x] placeholder
+    - [x] various input types
+        - [x] Email
         - [ ] Number
             - [ ] min, max and step
         - [ ] Tel
-        - [ ] Select (and multiple)
+        - [x] Select (and multiple)
         - [ ] Radio
         - [ ] Range (min, max and Step)
         - [ ] textarea
-    - [ ] Show MDN and W3School resources
+    - [x] Show MDN and W3School resources
 
 ### Things we practiced on 1/27/2023
-- [ ] Intro to Bootstrap
-    - [ ] setup
-- [ ] Bootstrap container
-    - [ ] rows and columns
-    - [ ] padding (gx and gy)
-- [ ] Bootstrap table
-- [ ] Bootstrap form control
-- [ ] Bootstrap cards
-- [ ] Misc
+- [x] Intro to Bootstrap
+    - [x] setup
+- [x] Bootstrap container
+    - [x] rows and columns
+    - [x] padding (gx and gy)
+- [x] Bootstrap table
+- [x] Bootstrap form control
+- [x] Bootstrap cards
+- [x] Misc
 
 
 We are wrapping up HTML & CSS & CSS Framework (BootStrap) with this demos!
