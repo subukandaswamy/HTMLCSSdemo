@@ -57,7 +57,19 @@ Code written in class for lectures related to HTML and CSS.
         - [ ] textarea
     - [ ] Show MDN and W3School resources
 
-We are wrapping up HTML & CSS with this demos!
+### Things we practiced on 1/27/2023
+- [ ] Intro to Bootstrap
+    - [ ] setup
+- [ ] Bootstrap container
+    - [ ] rows and columns
+    - [ ] padding (gx and gy)
+- [ ] Bootstrap table
+- [ ] Bootstrap form control
+- [ ] Bootstrap cards
+- [ ] Misc
+
+
+We are wrapping up HTML & CSS & CSS Framework (BootStrap) with this demos!
 
 Remember our analogy!
 
